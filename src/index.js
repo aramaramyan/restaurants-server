@@ -3,6 +3,7 @@ const express = require('express');
 
 const app = express();
 
+app.use('/restaurants', require('./routes/restaurants'))
 
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, (error) =>{
