@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const reviewService = require('../services/review')
+const reviewService = require('../services/review');
 
 router.post(
   '/',

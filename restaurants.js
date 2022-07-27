@@ -14,7 +14,13 @@ const restaurants = [
       }
     ],
     "rates": [5, 5, 4, 5],
-    "images": []
+    "images": [
+      "https://drive.google.com/uc?id=1fTtZBdfzo-6PqGPtj_PV7H1WQ9c7bhdW",
+      "https://drive.google.com/uc?id=1HQlE1p-IitTeVxUsMSmqmLJC_umHwDkX",
+      "https://drive.google.com/uc?id=1d9AkRv6jISZUEhzrW3m-FTOxC5dXwt-S",
+      "https://drive.google.com/uc?id=1VQ5JJCtwEq2qDfTdMztvrgx5ynMsvtCt",
+      "https://drive.google.com/uc?id=1aUw007erNJzmhKP6cErogAz21rh8vQPQ",
+    ]
   },
   {
     "id": 2,
@@ -31,7 +37,13 @@ const restaurants = [
       }
     ],
     "rates": [5, 4, 4, 3],
-    "images": []
+    "images": [
+      "https://drive.google.com/uc?id=1rQVg3ONWWUYryZI7hSiafFU15lfpy0Zq",
+      "https://drive.google.com/uc?id=1xAXt6hLhh6dUpjxbE09jvIvIqjNOTlPv",
+      "https://drive.google.com/uc?id=1M4BjRWTHQUpNjn-Y-ElayRDDwEDJM7pQ",
+      "https://drive.google.com/uc?id=1oHYMDb0XISveqF2QWal-aUg58q5PLynd",
+      "https://drive.google.com/uc?id=1wAYNMB5CWG1Wso1si6O9Am8nk597OcDz",
+    ]
   },
   {
     "id": 3,
@@ -48,7 +60,13 @@ const restaurants = [
       }
     ],
     "rates": [3, 4, 5],
-    "images": []
+    "images": [
+      "https://drive.google.com/uc?id=1eKqpszjyba6NzkAT4RIyZK_jfL0LVJ_m",
+      "https://drive.google.com/uc?id=1J8-W4mEg-4uwf3A27yoewV6-J8goBODP",
+      "https://drive.google.com/uc?id=1ua2Y_4JzywUmHLk1VMFcxbA9gQ84PlEA",
+      "https://drive.google.com/uc?id=1I2LOdDIw-bSi9obz4Ep3QqJ-iUcKbsHm",
+      "https://drive.google.com/uc?id=1fAZOPUZdzMKkjfBy6s0HEtafL_QVV1GU",
+    ]
   },
   {
     "id": 4,
@@ -70,7 +88,13 @@ const restaurants = [
       }
     ],
     "rates": [4, 4, 5],
-    "images": []
+    "images": [
+      "https://drive.google.com/uc?id=1YpU9UfzD9nZgtHkpDOe1v8N7GSUs3mi4",
+      "https://drive.google.com/uc?id=16bAg-9ckBVATtpJHEJ6Sv8VHUeV9ZMJ4",
+      "https://drive.google.com/uc?id=1JVxJQUvR3ju0qehlGKNA_P2KqAnEzl-T",
+      "https://drive.google.com/uc?id=1pEq0rcpuANX0rqM7W3HVYSSYRiqV5XeF",
+      "https://drive.google.com/uc?id=1rlJq_HZP_5MTUN9JdaToE9sRgu7BbCBR",
+    ]
   },
   {
     "id": 5,
@@ -87,7 +111,13 @@ const restaurants = [
       }
     ],
     "rates": [3, 5, 5],
-    "images": []
+    "images": [
+      "https://drive.google.com/uc?id=1c1GXBGn8JTqcuC9mPeAR6DjTcW49V6Mg",
+      "https://drive.google.com/uc?id=1vRsmPQMNCMrZOxsDnZhcXOleILCNeiLq",
+      "https://drive.google.com/uc?id=1J4kYhw8eC0iv-IZI84C_nUABuwYS3YI8",
+      "https://drive.google.com/uc?id=1vg966MHH6_vtBhmmTfLPhZMMo2yWUJ4F",
+      "https://drive.google.com/uc?id=1mORSDr2xHIIy_nFirab5JbLLWhohK73v",
+    ]
   }
 ]
 

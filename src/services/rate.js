@@ -10,4 +10,4 @@ function addRate(id, rate) {
 
 module.exports = {
   addRate
-}
+};
