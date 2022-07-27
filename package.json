@@ -1,0 +1,29 @@
+{
+  "name": "restaurants_server",
+  "version": "1.0.0",
+  "description": "Node project for restaurants app",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aramaramyan/restaurants-server.git"
+  },
+  "keywords": [],
+  "author": "Aram Aramyan <a.aramyan1997@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aramaramyan/restaurants-server/issues"
+  },
+  "homepage": "https://github.com/aramaramyan/restaurants-server#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
