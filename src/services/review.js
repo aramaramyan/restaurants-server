@@ -9,7 +9,11 @@ function addReview(id, review) {
     id: uid(),
     name: getFullName()
   }
+
   restaurant.reviews.push(data);
+  if(review.rate) {
+    restaurant.rates.push(review.rate);
+  }
 
   return restaurant.reviews;
 }
