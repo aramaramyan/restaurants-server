@@ -2,7 +2,6 @@ const restaurants = [
   {
     "id": 1,
     "name": "Sherep",
-    "description": "Restaurant description 1",
     "reviews": [
       {
         id: "l64nf8mfq5w30r0szog",
@@ -20,6 +19,11 @@ const restaurants = [
       }
     ],
     "rates": [5, 5, 4, 5],
+    "phone": "+374 43 600880",
+    "location": "Amiryan str. 1, Yerevan 0010 Armenia",
+    "webPage": "https://www.yeremyanprojects.com/en/restaurants/sherep",
+    "openTime": "09:30 AM - 12:00 AM",
+    "kitchenType": ["Middle Eastern", "Eastern European", "Central European", "Armenian", "Barbecue", "Healthy"],
     "images": [
       "https://drive.google.com/uc?id=1fTtZBdfzo-6PqGPtj_PV7H1WQ9c7bhdW",
       "https://drive.google.com/uc?id=1HQlE1p-IitTeVxUsMSmqmLJC_umHwDkX",
@@ -31,7 +35,6 @@ const restaurants = [
   {
     "id": 2,
     "name": "Yasaman",
-    "description": "Restaurant description 2",
     "reviews": [
       {
         id: "l64nfaeiyk93l8jkvdq",
@@ -49,6 +52,11 @@ const restaurants = [
       }
     ],
     "rates": [5, 4, 4, 3],
+    "phone": "+374 11 803333",
+    "location": "Yekmalyan str. 111, Yerevan 0002 Armenia",
+    "webPage": "https://www.facebook.com/YasamanYVN/",
+    "openTime": "10:00 AM - 12:00 AM",
+    "kitchenType": ["Armenian", "Caucasian", "Barbecue", "Contemporary"],
     "images": [
       "https://drive.google.com/uc?id=1rQVg3ONWWUYryZI7hSiafFU15lfpy0Zq",
       "https://drive.google.com/uc?id=1xAXt6hLhh6dUpjxbE09jvIvIqjNOTlPv",
@@ -60,7 +68,6 @@ const restaurants = [
   {
     "id": 3,
     "name": "Seasons",
-    "description": "Restaurant description 3",
     "reviews": [
       {
         id: "l64nffwihv21yvawffn",
@@ -78,6 +85,11 @@ const restaurants = [
       }
     ],
     "rates": [3, 4, 5],
+    "phone": "+374 43 709070",
+    "location": "Mesrop Mashtots Ave. 15, Yerevan 0002 Armenia",
+    "webPage": "https://www.yeremyanprojects.com/en/restaurants/seasons",
+    "openTime": "12:00 PM - 12:00 AM",
+    "kitchenType": ["European", "Armenian", "Contemporary"],
     "images": [
       "https://drive.google.com/uc?id=1eKqpszjyba6NzkAT4RIyZK_jfL0LVJ_m",
       "https://drive.google.com/uc?id=1J8-W4mEg-4uwf3A27yoewV6-J8goBODP",
@@ -89,7 +101,6 @@ const restaurants = [
   {
     "id": 4,
     "name": "el Garden",
-    "description": "Restaurant description 4",
     "reviews": [
       {
         id: "l64nn0vig7ck2kzun1c",
@@ -101,6 +112,7 @@ const restaurants = [
       {
         id: "l64nn1e85eucsdeo4jb",
         name: "Meruj Darbinyan",
+
         rate: 5,
         review: "Beautiful place, nature, delicious food, Thank you for the garden. :\n" +
           "Aren was very hospitable. We also thank him.",
@@ -115,6 +127,11 @@ const restaurants = [
       }
     ],
     "rates": [4, 4, 5],
+    "phone": "+374 41 490000",
+    "location": "Tsitsernakaberd Park 8, Yerevan 0082 Armenia",
+    "webPage": "https://www.elgarden.am/",
+    "openTime": "10:00 AM - 02:00 AM",
+    "kitchenType": ["Sushi", "European", "Bar", "Cafe", "Armenian"],
     "images": [
       "https://drive.google.com/uc?id=1YpU9UfzD9nZgtHkpDOe1v8N7GSUs3mi4",
       "https://drive.google.com/uc?id=16bAg-9ckBVATtpJHEJ6Sv8VHUeV9ZMJ4",
@@ -126,7 +143,6 @@ const restaurants = [
   {
     "id": 5,
     "name": "Mezzo",
-    "description": "Restaurant description 5",
     "reviews": [
       {
         id: "l64nn1v18vc1232g10l",
@@ -144,6 +160,11 @@ const restaurants = [
       }
     ],
     "rates": [3, 5, 5],
+    "phone": "+374 10 524211",
+    "location": "st. Isahakyan 28, Yerevan 0009 Armenia",
+    "webPage": "https://www.mezzo.am/",
+    "openTime": "12:00 PM - 12:00 AM",
+    "kitchenType": ["Sushi", "European", "Eastern European", "Central European", "Bar", "International"],
     "images": [
       "https://drive.google.com/uc?id=1c1GXBGn8JTqcuC9mPeAR6DjTcW49V6Mg",
       "https://drive.google.com/uc?id=1vRsmPQMNCMrZOxsDnZhcXOleILCNeiLq",
