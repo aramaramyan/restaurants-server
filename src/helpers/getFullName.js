@@ -22,14 +22,14 @@ const surnames = [
 ];
 
 function getRandomNumber(maxNum) {
-  return (Math.random() * maxNum) + 1;
+  return Math.floor(Math.random() * maxNum);
 }
 
 function getFullName() {
   const name = names[getRandomNumber(names.length)];
   const surname = surnames[getRandomNumber(surnames.length)];
 
-  return name + surname;
+  return `${name} ${surname}`;
 }
 
 module.exports = getFullName;
