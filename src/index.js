@@ -11,7 +11,6 @@ app.use(cors());
 
 app.use('/restaurants', require('./routes/restaurants'));
 app.use('/reviews', require('./routes/reviews'));
-app.use('/rates', require('./routes/rate'));
 
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, (error) =>{
