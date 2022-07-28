@@ -1,8 +1,15 @@
 const restaurants = require('../../restaurants.js');
+const uid = require("./../helpers/uid.js");
+const getFullName = require("./../helpers/getFullName.js");
 
 function addReview(id, review) {
   const restaurant = restaurants.find(item => item.id === id);
-  restaurant.reviews.push(review);
+  const data = {
+    ...review,
+    id: uid(),
+    name: getFullName()
+  }
+  restaurant.reviews.push(data);
 
   return restaurant.reviews;
 }
