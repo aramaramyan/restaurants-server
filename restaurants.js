@@ -122,7 +122,7 @@ const restaurants = [
         id: "l64nn1v18vc6hi2g10l",
         name: "Garnik Tonoyan",
         rate: 5,
-        title: "Dear Diana, Thank you very much for your review! We are happy that you saved such a good memory about our restaurant! Looking forward to welcoming you again on your next visit to Armenia!",
+        review: "Dear Diana, Thank you very much for your review! We are happy that you saved such a good memory about our restaurant! Looking forward to welcoming you again on your next visit to Armenia!",
         date: 1658898271914
       }
     ],
