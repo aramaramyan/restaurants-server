@@ -5,7 +5,7 @@ const reviewService = require('../services/review');
 router.post(
   '/',
   (req, res) => {
-    const restaurants = reviewService.addReview(req.body.id, req.body.message);
+    const restaurants = reviewService.addReview(req.body.id, req.body.review);
     res.status(200).send(restaurants);
   }
 );

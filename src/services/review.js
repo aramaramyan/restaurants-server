@@ -3,7 +3,7 @@ const uid = require("./../helpers/uid.js");
 const getFullName = require("./../helpers/getFullName.js");
 
 function addReview(id, review) {
-  const restaurant = restaurants.find(item => item.id === id);
+  const restaurant = restaurants.find(item => item.id === +id);
   const data = {
     ...review,
     id: uid(),
