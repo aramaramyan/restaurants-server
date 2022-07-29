@@ -30,7 +30,11 @@ const restaurants = [
       "https://drive.google.com/uc?id=1d9AkRv6jISZUEhzrW3m-FTOxC5dXwt-S",
       "https://drive.google.com/uc?id=1VQ5JJCtwEq2qDfTdMztvrgx5ynMsvtCt",
       "https://drive.google.com/uc?id=1aUw007erNJzmhKP6cErogAz21rh8vQPQ",
-    ]
+    ],
+    coordinates: {
+      lng: 44.51106,
+      lat: 40.17853
+    }
   },
   {
     "id": 2,
@@ -63,7 +67,11 @@ const restaurants = [
       "https://drive.google.com/uc?id=1M4BjRWTHQUpNjn-Y-ElayRDDwEDJM7pQ",
       "https://drive.google.com/uc?id=1oHYMDb0XISveqF2QWal-aUg58q5PLynd",
       "https://drive.google.com/uc?id=1wAYNMB5CWG1Wso1si6O9Am8nk597OcDz",
-    ]
+    ],
+    coordinates: {
+      lng: 44.50932,
+      lat: 40.18426
+    }
   },
   {
     "id": 3,
@@ -96,7 +104,11 @@ const restaurants = [
       "https://drive.google.com/uc?id=1ua2Y_4JzywUmHLk1VMFcxbA9gQ84PlEA",
       "https://drive.google.com/uc?id=1I2LOdDIw-bSi9obz4Ep3QqJ-iUcKbsHm",
       "https://drive.google.com/uc?id=1fAZOPUZdzMKkjfBy6s0HEtafL_QVV1GU",
-    ]
+    ],
+    coordinates: {
+      lng: 44.50906,
+      lat: 40.18251
+    }
   },
   {
     "id": 4,
@@ -138,7 +150,11 @@ const restaurants = [
       "https://drive.google.com/uc?id=1JVxJQUvR3ju0qehlGKNA_P2KqAnEzl-T",
       "https://drive.google.com/uc?id=1pEq0rcpuANX0rqM7W3HVYSSYRiqV5XeF",
       "https://drive.google.com/uc?id=1rlJq_HZP_5MTUN9JdaToE9sRgu7BbCBR",
-    ]
+    ],
+    coordinates: {
+      lng: 44.48142,
+      lat: 40.18689
+    }
   },
   {
     "id": 5,
@@ -171,7 +187,11 @@ const restaurants = [
       "https://drive.google.com/uc?id=1J4kYhw8eC0iv-IZI84C_nUABuwYS3YI8",
       "https://drive.google.com/uc?id=1vg966MHH6_vtBhmmTfLPhZMMo2yWUJ4F",
       "https://drive.google.com/uc?id=1mORSDr2xHIIy_nFirab5JbLLWhohK73v",
-    ]
+    ],
+    coordinates: {
+      lng: 44.52037,
+      lat: 40.18867
+    }
   }
 ]
 
